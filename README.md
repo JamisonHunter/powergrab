@@ -15,14 +15,14 @@ Powergrab is a Rust CLI tool that displays battery information, including the cu
    git clone https://github.com/JamisonHunter/powergrab
 
 2. Navigate to your cloned directory and cd into powergrab.
-    '''bash
+    ```bash
     cd powergrab
 
 3. Next build the release version with cargo.
-    '''bash
+    ```bash
     cargo build --release
 
 4. Move the executable into your path to make it accessible via the terminal.
-    '''bash
+    ```bash
     sudo mv target/release/powergrab /usr/local/bin/
 
