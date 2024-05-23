@@ -30,7 +30,8 @@ I built this CLI tool to work on my MacBook in order to easily check my battery 
     ```bash
     sudo mv target/release/powergrab /usr/local/bin/
 
+5. Lastly, type 'powergrab' into the terminal in order to check if it is working. 
+
 ### Technologies 
 
 I chose to use Rust primarily due to its understandable file organization and easy creation of executable files. 
-
