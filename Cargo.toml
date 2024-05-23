@@ -4,5 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-battery = "0.7.8"
-uom = "0.30"
+battery = "0.7"
+uom = { version = "0.30", features = ["f32"] }
+term_size = "0.3"
+
