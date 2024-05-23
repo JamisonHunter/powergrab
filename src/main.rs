@@ -16,7 +16,7 @@ fn main() -> Result<(), battery::Error> {
             println!("Time until fully charged: N/A");
         }
         println!("========================================");
-        println!("");
+        println!();
     }
 
     Ok(())
