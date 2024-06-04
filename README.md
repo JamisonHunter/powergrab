@@ -1,6 +1,6 @@
 # Powergrab
 
-Powergrab is a Rust CLI tool that displays battery information, including the current percentage and time until fully charged.
+Powergrab is a Rust CLI tool that displays battery information, including the current percentage and time until fully charged. This CLI tool works on both Mac and Linux.
 
 ### Motivation
 
